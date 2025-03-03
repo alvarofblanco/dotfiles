@@ -1,1 +1,0 @@
-/media/alvaro/ssd/home/.bashrc
